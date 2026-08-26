@@ -9,15 +9,12 @@
 <br><br>
 
 <a href="https://github.com/UdayBelenits2026">
-<img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://github.com/UdayBelenits2026?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECTS-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Projects-View-2F81F7?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=UdayBelenits2026&style=for-the-badge&color=58A6FF"/>
 
 </div>
 
@@ -27,37 +24,49 @@
 
 ### ⚡ Angular Developer · TypeScript · RxJS · NgRx
 
-Building **responsive, scalable & production-ready** applications.
+Building **responsive, scalable & production-ready** web applications.
 
 </div>
 
-<br>
+---
+
+## 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/UdayBelenits2026/CashFlow-Application">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=UdayBelenits2026&repo=CashFlow-Application&theme=github_dark&hide_border=true"/>
+<img src="https://img.shields.io/badge/💰_CashFlow_Application-2F81F7?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/UdayBelenits2026/Ebook-Ecommerce-Application">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=UdayBelenits2026&repo=Ebook-Ecommerce-Application&theme=github_dark&hide_border=true"/>
+<img src="https://img.shields.io/badge/📚_Ebook_Ecommerce-2F81F7?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/UdayBelenits2026/Dailytask">
+<img src="https://img.shields.io/badge/📊_DailyTask-2F81F7?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/UdayBelenits2026/eBankX">
+<img src="https://img.shields.io/badge/🏦_eBankX-2F81F7?style=for-the-badge"/>
 </a>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-<a href="https://github.com/UdayBelenits2026?tab=repositories">
-<img src="https://img.shields.io/badge/🚀_View_All_Projects-58A6FF?style=for-the-badge"/>
+### 🛠️ Technologies
+
+`Angular` · `TypeScript` · `JavaScript` · `RxJS` · `NgRx` · `SCSS` · `REST APIs`
+
+<br><br>
+
+<a href="https://github.com/UdayBelenits2026">
+<img src="https://img.shields.io/badge/⭐_Explore_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=Code+%E2%86%92+Build+%E2%86%92+Learn+%E2%86%92+Repeat+%F0%9F%94%A5;Always+learning.+Always+building.+%F0%9F%9A%80"/>
 
