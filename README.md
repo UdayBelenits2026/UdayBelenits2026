@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=UDAY+KIRAN+AVULA+%F0%9F%91%8B;FRONTEND+DEVELOPER;ANGULAR+%7C+TYPESCRIPT+%7C+RXJS;BUILDING+THE+WEB%2C+ONE+COMPONENT+AT+A+TIME." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Uday+Kiran+Avula+%F0%9F%91%8B;Frontend+Developer;Angular+%7C+TypeScript+%7C+RxJS+%7C+NgRx;Building+Modern+Web+Applications+%F0%9F%9A%80" />
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,scss,rxjs,ngrx,git,github&perline=10"/>
+<img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,scss,rxjs,git,github&perline=9" />
 
 <br><br>
 
@@ -15,15 +15,19 @@
 <img src="https://img.shields.io/badge/PROJECTS-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=UdayBelenits2026&style=for-the-badge&color=58A6FF"/>
+
 </div>
 
-<br>
+---
 
 <div align="center">
 
-### `⚡ Angular Developer • TypeScript • RxJS • NgRx`
+### ⚡ Angular Developer · TypeScript · RxJS · NgRx
 
-Building **responsive, scalable & production-ready** web applications.
+Building **responsive, scalable & production-ready** applications.
 
 </div>
 
@@ -45,9 +49,9 @@ Building **responsive, scalable & production-ready** web applications.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=UdayBelenits2026&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
-
-<img height="165" src="https://streak-stats.demolab.com?user=UdayBelenits2026&theme=github-dark&hide_border=true"/>
+<a href="https://github.com/UdayBelenits2026?tab=repositories">
+<img src="https://img.shields.io/badge/🚀_View_All_Projects-58A6FF?style=for-the-badge"/>
+</a>
 
 </div>
 
@@ -55,10 +59,6 @@ Building **responsive, scalable & production-ready** web applications.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=UdayBelenits2026&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=Keep+learning.+Keep+building.+%F0%9F%9A%80;Open+to+new+opportunities+%F0%9F%92%BC"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=Code+%E2%86%92+Build+%E2%86%92+Learn+%E2%86%92+Repeat+%F0%9F%94%A5;Always+learning.+Always+building.+%F0%9F%9A%80"/>
 
 </div>
