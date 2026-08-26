@@ -1,22 +1,19 @@
 <div align="center">
 
-# Hi 👋, I'm Uday Kiran Avula
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Uday+Kiran+Avula+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Angular+%26+TypeScript+Developer+%E2%9A%A1;Building+Modern+Web+Applications+%F0%9F%9A%80" />
 
-### Frontend Developer | Angular Developer | TypeScript Enthusiast
+<br>
 
-<p>
-  <a href="https://github.com/UdayBelenits2026">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/UdayBelenits2026?tab=followers">
-    <img src="https://img.shields.io/github/followers/UdayBelenits2026?style=for-the-badge&logo=github&label=Followers" />
-  </a>
-  <a href="https://github.com/UdayBelenits2026?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View-2ea44f?style=for-the-badge&logo=github" />
-  </a>
-</p>
+<a href="https://github.com/UdayBelenits2026">
+<img src="https://img.shields.io/badge/GitHub-UdayBelenits2026-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://github.com/UdayBelenits2026?tab=followers">
+<img src="https://img.shields.io/github/followers/UdayBelenits2026?style=for-the-badge&logo=github"/>
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;Angular+Developer;TypeScript+Developer;Building+Scalable+Web+Applications;Learning+Modern+Frontend+Architecture" />
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=UdayBelenits2026&style=for-the-badge&color=blue" />
 
 </div>
 
@@ -24,142 +21,94 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Frontend Developer** focused on building modern, scalable, responsive and user-friendly web applications.
+```text
+Frontend Developer passionate about building
+modern, responsive and scalable web applications.
 
-- 💼 Frontend Developer at **BelenITS Private Limited**
-- 🚀 Specialized in **Angular, TypeScript and JavaScript**
-- 🎨 Interested in responsive UI/UX and modern frontend architecture
-- 🔐 Experienced with authentication, route guards and HTTP interceptors
-- 📦 Working with RxJS and NgRx for reactive application development
-- 🧩 Passionate about reusable components and clean code
-- 🌱 Continuously learning modern frontend technologies
-- 💡 Interested in building production-ready applications
+🎯 Focus     → Angular & TypeScript
+⚡ Learning  → RxJS & NgRx
+🔐 Working   → Authentication & Authorization
+🎨 Interest  → UI/UX & Frontend Architecture
+🚀 Goal      → Production-ready applications
+```
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
-### Frontend
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,scss,react,tailwind,bootstrap" />
-</p>
+<img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,scss,react,tailwind,bootstrap,rxjs,python,flask,django,fastapi,java,mysql,sqlite,git,github,vscode,figma,postman&perline=8" />
 
-### Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,flask,django,fastapi,java,mysql,sqlite" />
-</p>
-
-### State Management & Reactive Programming
-
-<p>
-  <img src="https://skillicons.dev/icons?i=rxjs" />
-</p>
-
-**Also working with:**
-
-- NgRx
-- Signals
-- RxJS
-- Reactive Forms
-- REST APIs
-- HTTP Interceptors
-- Route Guards
-- Lazy Loading
-- Authentication & Authorization
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,jira" />
-</p>
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💰 CashFlow Application
+<div align="center">
 
-A modern cash-flow management application designed for the US banking domain.
+### 💰 CashFlow
 
-**Technologies:**
+**US Banking Cash Flow Management System**
 
-`Angular` `TypeScript` `SCSS` `RxJS` `NgRx` `REST APIs`
+`Angular` `TypeScript` `RxJS` `NgRx` `SCSS`
 
-**Features:**
+<a href="https://github.com/UdayBelenits2026/CashFlow-Application">
+<img src="https://img.shields.io/badge/View_Project-2F81F7?style=for-the-badge&logo=github"/>
+</a>
 
-- Authentication
-- Dashboard
-- Account management
-- Transaction management
-- Responsive UI
-- Light/Dark mode
-- Route guards
-- HTTP interceptors
+<br><br>
 
-🔗 [View Repository](https://github.com/UdayBelenits2026/CashFlow-Application)
+### 📚 Ebook Ecommerce
 
----
+**Full-Stack Book Ecommerce Application**
 
-### 📚 Ebook Ecommerce Application
+`Angular` `TypeScript` `Flask` `SQLite`
 
-A full-stack ecommerce application for browsing and purchasing books.
+<a href="https://github.com/UdayBelenits2026/Ebook-Ecommerce-Application">
+<img src="https://img.shields.io/badge/Frontend-2F81F7?style=for-the-badge&logo=github"/>
+</a>
 
-**Technologies:**
+<a href="https://github.com/UdayBelenits2026/Ebook-Ecommerce-Application-Backend">
+<img src="https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github"/>
+</a>
 
-`Angular` `TypeScript` `Python` `Flask` `SQLite`
-
-**Features:**
-
-- User registration
-- Login
-- Email verification
-- OTP authentication
-- Book categories
-- Search and sorting
-- Wishlist
-- Cart
-- Orders
-- Responsive design
-
-🔗 [Frontend Repository](https://github.com/UdayBelenits2026/Ebook-Ecommerce-Application)
-
-🔗 [Backend Repository](https://github.com/UdayBelenits2026/Ebook-Ecommerce-Application-Backend)
-
----
+<br><br>
 
 ### 📊 DailyTask
 
-A task management application focused on productivity and daily task tracking.
-
-**Technologies:**
+**Simple Productivity & Task Management App**
 
 `Angular` `TypeScript`
 
-🔗 [View Repository](https://github.com/UdayBelenits2026/Dailytask)
+<a href="https://github.com/UdayBelenits2026/Dailytask">
+<img src="https://img.shields.io/badge/View_Project-2F81F7?style=for-the-badge&logo=github"/>
+</a>
 
----
+<br><br>
 
 ### 🏦 eBankX
 
-A banking-oriented web application focused on modern financial UI and frontend development.
-
-**Technologies:**
+**Modern Banking UI Application**
 
 `Angular` `TypeScript`
 
-🔗 [View Repository](https://github.com/UdayBelenits2026/eBankX)
+<a href="https://github.com/UdayBelenits2026/eBankX">
+<img src="https://img.shields.io/badge/View_Project-2F81F7?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=UdayBelenits2026&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=UdayBelenits2026&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdayBelenits2026&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdayBelenits2026&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -169,35 +118,50 @@ A banking-oriented web application focused on modern financial UI and frontend d
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=UdayBelenits2026&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=UdayBelenits2026&theme=tokyonight&hide_border=true&border_radius=10"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=UdayBelenits2026&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=UdayBelenits2026&theme=tokyo-night&hide_border=true&area=true&radius=10"/>
 
 </div>
 
 ---
 
-## 💻 What I'm Currently Working On
+## 🎯 Currently Learning
 
-```text
-Angular
-   ↓
-TypeScript
-   ↓
-RxJS
-   ↓
-NgRx
-   ↓
-REST API Integration
-   ↓
-Authentication & Authorization
-   ↓
-Scalable Frontend Architecture
+<div align="center">
+
+`Angular` → `TypeScript` → `RxJS` → `NgRx` → `REST APIs` → `Scalable Architecture`
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/UdayBelenits2026">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=2F81F7&center=true&vCenter=true&width=600&lines=Code.+Learn.+Build.+Repeat.+%F0%9F%9A%80;Always+learning%2C+always+building+%F0%9F%92%99" />
+
+</div>
